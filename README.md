@@ -2,7 +2,7 @@
 
 A Cisco Packet Tracer project connecting four university departments to a shared server network through a central router.
 
-Built by **Khaled Samour** for COMP 3115, Practical Network Principles, at UCAS Gaza. The project was completed and tested by the author within the practical exam's allotted time.
+Built by **Khaled Samour** for COMP 3115, Practical Network Principles, at UCAS Gaza. The project was completed and tested by the author within the practical exam's allotted time. The author reports that it works as designed and continues to use it.
 
 ## Overview
 
